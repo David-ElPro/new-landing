@@ -1,0 +1,23 @@
+.card-box {
+  /*display: flex;*/
+  /*flex: auto;*/
+  /*justify-content: space-between;*/
+}
+
+.container1 {
+  border-radius: 16px;
+  border-style: double;
+  border-color: white;
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  gap: initial;
+  background-color: #00bf77;
+  position: initial;
+  padding-top: 50px;
+  row-gap: 25px;
+}
+
+@media (min-width:1024px) {
+}
+

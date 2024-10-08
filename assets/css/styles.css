@@ -1,0 +1,124 @@
+body {
+  margin: 0;
+  font-family: 'Poppins';
+}
+
+div {
+}
+
+#promo {
+  text-align: center;
+  padding: 40px;
+  background-image: url("../../assets/img/Dos%20plataformas.png");
+  background-size: cover;
+  font-family: poppins;
+}
+
+#jumbo {
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #f16200;
+  box-shadow: var(--bs-emphasis-color);
+  padding: 30px;
+  background-color: rgba(255, 255, 255, 0.75);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+p {
+  text-align: left;
+  text-shadow: var(--bs-body-color);
+  font-style: italic;
+}
+
+@media (min-width: 360px) {
+  #promo {
+    padding: 20px;
+  }
+}
+
+.site-section {
+  text-align: center;
+  paddimg: 50px 0;
+}
+
+#Welcome {
+  max-width: 800px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.site-section h3 {
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
+.far.fa-user {
+  font-weight: normal;
+}
+
+#bgbenef {
+  background: linear-gradient(to left, #00bf77, #187b56);
+}
+
+#c2 {
+  background: linear-gradient(to left, #ffd0b0, #f16200);
+}
+
+#bg1 {
+  background-color: linear-gradient(to left, #ffd0b0, #f16200);
+}
+
+#card1 {
+  background-color: #f16200;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+#card3 {
+  background-color: #f16200;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+#card2 {
+  background-color: #f16200;
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.headingcard {
+  font-weight: 500;
+  font-weight: bolder;
+  color: var(--bs-body-bg);
+}
+
+.paragraphcard1 {
+  font-style: inherit;
+  text-align: center;
+  font-weight: bolder;
+  color: var(--bs-body-bg);
+}
+
+#Titlesection1 {
+  color: var(--bs-body-bg);
+  font-weight: bolder;
+}
+
+#CL {
+  color: var(--bs-secondary-bg);
+  font-weight: bold;
+}
+
+#comenzar {
+  background-color: #1a3669;
+  border-radius: 16px;
+  padding-right: 40px;
+  padding-left: 40px;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+#image1 {
+}
+
