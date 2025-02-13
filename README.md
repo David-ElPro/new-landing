@@ -1,2 +1,1 @@
-# new-landing
- La página mas pro
+# Página de distribución 
